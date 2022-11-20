@@ -1,3 +1,3 @@
 # test-mac
 
-Prout
+c'était inélégant
